@@ -1,0 +1,23 @@
+/*
+ * Basic styling for this page.
+ *
+ * @author Robert C. Duvall
+ */
+
+body {
+    background-color: lemonchiffon;
+}
+
+h1 {
+    color: grey;
+}
+
+a {
+    color: darkorange;
+}
+
+/* added by JavaScript */
+.link {
+    list-style: square;
+    color: cyan;
+}
